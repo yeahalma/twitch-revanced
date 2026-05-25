@@ -7,7 +7,7 @@
 
 >Auto claim channel points\
 >Block all ads\
->Show deleted comments\
+>Show deleted comments
 
 # Disclaimer:
 
