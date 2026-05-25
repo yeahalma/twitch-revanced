@@ -1,11 +1,13 @@
 # Installation steps:
 
->1. Download and Install the latest [release](https://github.com/yeahalma/twitch-revanced/releases) of Photomath Revanced.
+>1. Download and Install the latest [release](https://github.com/yeahalma/twitch-revanced/releases) of Twitch Revanced.
 >2. (Recommended to use [Obtainium](https://github.com/ImranR98/Obtainium) to download and install build updates.)
 
 # Patches:
 
->Unlock all premium subscription features
+>Auto claim channel points
+>Block all ads
+>Show deleted comments
 
 # Disclaimer:
 
