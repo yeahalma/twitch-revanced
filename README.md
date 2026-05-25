@@ -5,9 +5,9 @@
 
 # Patches:
 
->Auto claim channel points
->Block all ads
->Show deleted comments
+>Auto claim channel points\
+>Block all ads\
+>Show deleted comments\
 
 # Disclaimer:
 
