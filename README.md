@@ -1,7 +1,9 @@
 # Installation steps:
 
 >1. Download and Install the latest [release](https://github.com/yeahalma/twitch-revanced/releases) of Twitch Revanced.
->2. (Recommended to use [Obtainium](https://github.com/ImranR98/Obtainium) to download and install build updates.)
+>2. Log Into Your Twitch account
+>3. You are good to go
+>4. (Recommended to use [Obtainium](https://github.com/ImranR98/Obtainium) to download and install build updates.)
 
 # Patches:
 
